@@ -1,7 +1,7 @@
 # Quant Finance Roadmap
 
 This repository is part of my journey into **Quantitative Finance**.  
-It contains Python scripts and notebooks that explore portfolio optimization, risk modeling, and financial simulations.
+Contains Python scripts and notebooks that explore portfolio optimization, risk modeling, and financial simulations.
 
 ---
 
